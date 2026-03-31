@@ -26,7 +26,7 @@
 * **🤖 ATS Intelligence:** Simulates Application Tracking Systems to generate an estimated pass/fail score.
 * **🎯 Critical Gap Detection:** Identifies exact missing keywords holding your resume back.
 * **📊 Visual Analytics:** View your match data via custom Plotly-powered Donut, Bar, and Interactive Radar charts.
-* **🎨 Premium UI:** Custom glassmorphism design, dark mode, and micro-animations built natively in Streamlit.
+* **🎨 Premium UI:** Custom glassmorphism design, dark mode, and micro-animations built natively in Streamlit. 
 
 ---
 
